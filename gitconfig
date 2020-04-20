@@ -47,4 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	name = cd ~/code/$GITHUB_USERNAME/dotfiles
+	name = Rodrigo Reis
+	email = rodrigomiguelhoreis@gmail.com
